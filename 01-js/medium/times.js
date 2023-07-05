@@ -21,4 +21,4 @@ function calculateTime(n) {
     // return 0.01;
 }
 
-calculateTime(100000);
+calculateTime(10000);
